@@ -40,7 +40,7 @@ def func_query(time_data, limit, offset):
         ''')
     return query
 
-def API_request_Cryptokitties(limit, time_data, time_start, lines_to_save_data, data_folder):
+def Cryptokitties(limit, time_data, time_start, lines_to_save_data, data_folder):
     counter = 0
     df = pd.DataFrame({}, dtype=str)
     sample_transport=RequestsHTTPTransport(

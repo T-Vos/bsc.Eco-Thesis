@@ -1,2 +1,11 @@
 # Ignore datafiles
 *.csv
+*.exe
+*.gz
+*.pdf
+*.csv.gz
+*.sqlite
+*.zip
+/DataOtherSources/
+./DataOtherSources/
+DataOtherSources/
