@@ -6,7 +6,8 @@
 *.csv.gz
 *.sqlite
 *.zip
+*.ipynb
 /DataOtherSources/
 ./DataOtherSources/
 DataOtherSources/
-*.ipynb
+*.ipynb 
