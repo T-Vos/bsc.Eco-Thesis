@@ -10,4 +10,6 @@
 /DataOtherSources/
 ./DataOtherSources/
 DataOtherSources/
-*.ipynb 
+*.ipynb
+
+config.py

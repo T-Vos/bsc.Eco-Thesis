@@ -1,2 +1,2 @@
-# bsc.Eco-Thesis
-ML project to cluster NFTs
+# Bsc Economics - Thesis
+Python files used for clustering algorithm.
