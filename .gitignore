@@ -7,9 +7,14 @@
 *.sqlite
 *.zip
 *.ipynb
+*.ini
+
 /DataOtherSources/
 ./DataOtherSources/
 DataOtherSources/
-*.ipynb
+
+/plots/
+./plots/
+plots/
 
 config.py
