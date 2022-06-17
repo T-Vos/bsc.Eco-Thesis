@@ -6,7 +6,6 @@
 *.csv.gz
 *.sqlite
 *.zip
-*.ipynb
 *.ini
 *.xlsx
 
