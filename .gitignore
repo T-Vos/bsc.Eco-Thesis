@@ -18,3 +18,5 @@ DataOtherSources/
 plots/
 
 config.py
+
+*.png
